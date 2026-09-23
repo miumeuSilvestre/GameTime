@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Game Time</string>
+    <string name="game_time">Game Time</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="registar">registar</string>
+    <string name="j_tem_conta">Já tem conta</string>
+    <string name="login">Login</string>
+    <string name="profile_image">profile image</string>
+    <string name="backgound_image">backgound image</string>
+    <string name="colec_o">Colecão</string>
+    <string name="amigos">Amigos</string>
+    <string name="plus">+</string>
+    <string name="cover">cover</string>
+    <string name="classifica_o">Classificação</string>
+    <string name="coment_rios">Comentários</string>
+    <string name="games">Games</string>
+    <string name="pesquisar">Pesquisar...</string>
+    <string name="users">Users</string>
+    <string name="searchbutton">searchbutton</string>
+    <string name="search">Search</string>
+    <string name="upload_de_imagem_de_perfil">Upload de imagem de perfil</string>
+    <string name="pedidos_de_amizade">Pedidos de Amizade</string>
+    <string name="addGame">+</string>
+</resources>
